@@ -75,10 +75,10 @@ Car-Sales-Prediction/ ├── notebooks/ │ └── Car_Sales_Prediction.ip
 
 ## 📌 Results
 
-| Metric      | Value      |
-|-------------|------------|
-| RMSE        | *(Add after running)* |
-| R² Score    | *(Add after running)* |
+| Metric      | Value             |
+|-------------|-------------------|
+| RMSE        | 2326.702679733135 |
+| R² Score    |0.9498621195840186 |
 
 ---
 
